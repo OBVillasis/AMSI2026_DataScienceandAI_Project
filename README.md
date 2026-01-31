@@ -25,5 +25,3 @@ This project is dedicated to exploring various aspects of data science and devel
 ## Contributing
 We welcome contributions to this project! Please fork this repository and create a new branch for your feature or bug fix. Once your changes are complete, submit a pull request for review.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
